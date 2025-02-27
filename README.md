@@ -5,8 +5,8 @@ This is the implementation of "Long-Term EEG Partitioning for Seizure Onset Dete
 
 
 _SODor_ is a two-stage model based on a graph model and time series clustering.
-We first train a second-level classification model, generate logit-wise feature vectors, and locally store these vectors.
-Then, we concatenate logit features and implement sequence-level clustering for onset detection.
+It first trains a second-level classification model, generates logit-wise feature vectors, and locally stores these vectors.
+Then, it concatenates logit features and implements sequence-level clustering for onset detection.
 
 
 
