@@ -1,6 +1,9 @@
 # SODor
 This is the official implementation of the paper "Long-Term EEG Partitioning for Seizure Onset Detection", AAAI 2025 (Oral).
 
+<img width="937" alt="image" src="https://github.com/user-attachments/assets/2e849b68-6753-470f-89f0-f9991e9cfeee" />
+
+
 This is a two-stage model based on a graph model and time series clustering.
 We first train a second-level classification model, generate logit-wise feature vectors, and locally store these vectors.
 Then, we concatenate logit features and implement sequence-level clustering for onset detection.
