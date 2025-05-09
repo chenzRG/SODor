@@ -53,14 +53,12 @@ Multivariate Time Series Data, Proceedings of the 23rd ACM SIGKDD International 
 ## Citation
 If you find our work useful in your research, please consider citing:
 ```
-@misc{SODorAAAI2025,
-      title={Long-Term EEG Partitioning for Seizure Onset Detection}, 
-      author={Zheng Chen and Yasuko Matsubara and Yasushi Sakurai and Jimeng Sun},
-      year={2024},
-      eprint={2412.15598},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2412.15598}, 
+@article{SODorAAAI2025,
+      title={Long-Term EEG Partitioning for Seizure Onset Detection},
+      journal={Proceedings of the AAAI Conference on Artificial Intelligence},
+      author={Chen, Zheng and Matsubara, Yasuko and Sakurai, Yasushi and Sun, Jimeng},
+      year={2025},
+      pages={14221-14229}
 }
 
 ```
